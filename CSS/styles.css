@@ -171,7 +171,7 @@ footer {
         grid-column: 1 / 2;
     }
 
-    .primary-image {
+    .primary-img {
         grid-column: 2 / -1;
         grid-row: 1 / span 4;
         z-index: -1;
